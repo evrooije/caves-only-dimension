@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Changes the world generation in the overworld to contain only caves from the top to the bottom of the world."
+    }
+}
